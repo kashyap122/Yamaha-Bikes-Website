@@ -1,0 +1,88 @@
+.spacerg, .spacelg {
+    margin-left: 5px;
+}
+
+.card1 {
+    margin-top: 12px;
+}
+
+.buttonmargin {
+    margin-top: -23px;
+}
+
+.card2 {
+    margin-top: 150px;
+}
+
+.card3 {
+    margin-top: 200px;
+}
+
+.footer {
+    background-color: #0d6efd;
+    margin-top: 12px;
+}
+
+.footerlgrg {
+    margin-top: 350px;
+}
+
+.list1 ul {
+    list-style: none;
+}
+
+.list1 a,
+.copyright a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.copyright {
+    background-color: #0d6efd;
+    color: white;
+}
+.rgbutton{
+    margin-left: 160px;
+}
+/* margin-left: 160px; */
+.lgbutton{
+    margin-left: 170px;
+
+}
+#labelforVal{
+    color: red;
+}
+.copyrightmargin {
+    padding-bottom: 20px;
+}
+
+.list1 b {
+    color: white;
+    font-weight: 900;
+    font-size: large;
+}
+
+.back1 a {
+    color: white;
+    font-weight: 900;
+    font-size: large;
+    text-decoration: none;
+}
+
+.back1 {
+    padding-top: 14px;
+}
+
+.rgcards {
+    margin-top: 165px;
+}
+
+.lgcards {
+    margin-top: 125px;
+}
+
+.slide101 h5 {
+    background-color: #0000005f;
+    border-radius: 10px;
+}
